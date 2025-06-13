@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">
+Hey, I'm tree!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br/>
 
-<!--
-**ascenttree/ascenttree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://github.com/ascenttree/ascenttree/blob/main/cropped_image.png" alt="" width="320" />
+<hr>
 
-Here are some ideas to get you started:
+```
+-------------------------
+💻 Backend Developer
+🔭 Working at osu!Ascension as lead developer
+🌟 Main languages: Python, Go, C#
+📝 I'm super into anything related to bytes; file parsers or game servers.
+🎵 I love J-Pop/J-Rock and soft music
+-------------------------
+```
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I used  [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)'s README to build this, credits to them!
