@@ -13,8 +13,8 @@ Hey, I'm tree!
 🌟 Main languages: Python, Go, C#
 📝 I'm super into anything related to bytes; file parsers or game servers.
 🎵 I love J-Pop/J-Rock and soft music
-
-
+💖 I love my girlfriend
+🌱 Learning reverse engineering
 -------------------------
 ```
 <hr>
