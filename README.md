@@ -9,11 +9,10 @@ Hey, I'm tree!
 ```
 -------------------------
 💻 Backend Developer
-🔭 Working at osu!Ascension as lead developer
-🌟 Main languages: Python, Go, C#
+🌟 Main languages: Go, C#, Python (in order)
 📝 I'm super into anything related to bytes; file parsers or game servers.
 🎵 I love J-Pop/J-Rock and soft music
-💖 I love my girlfriend
+💖 I love my partners
 🌱 Learning reverse engineering
 -------------------------
 ```
